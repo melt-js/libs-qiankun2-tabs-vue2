@@ -3,17 +3,17 @@
     "name": "libs-qiankun2-tabs-vue2",
     "app_group_name": "libs-qiankun2-tabs-vue2",
     "git_repo_url": "",
-    "online_version": "2026.11.17-1",
-    "build_version": "2026.11.17-1",
+    "online_version": "2026.11.22",
+    "build_version": "2026.11.22",
     "platform": "unpkg",
-    "create_at": "2026-11-21T06:56:30.267Z"
+    "create_at": "2026-11-22T19:41:53.394Z"
   },
   "version": {
     "plugin_ver": "5.4.3",
     "extract_mode": "build",
     "sub_app_name": "libs-qiankun2-tabs-vue2",
-    "sub_app_version": "libs-qiankun2-tabs-vue2@2026.11.17-1",
-    "version_tag": "2026.11.17-1",
+    "sub_app_version": "libs-qiankun2-tabs-vue2@2026.11.22",
+    "version_tag": "2026.11.22",
     "src_map": {
       "webDirPath": "/libs-qiankun2-tabs-vue2/hel_dist",
       "htmlIndexSrc": "/libs-qiankun2-tabs-vue2/hel_dist/index.html",
@@ -57,7 +57,7 @@
       "srvModSrcIndex": ""
     },
     "html_content": "<!doctype html><html lang=\"en\">\n<script type=\"module\" crossorigin src=\"/libs-qiankun2-tabs-vue2/hel_dist/assets/index-56eF8kx1.js\"></script>\n<link rel=\"stylesheet\" crossorigin href=\"/libs-qiankun2-tabs-vue2/hel_dist/assets/index-DTFpdgfA.css\">\n<meta charset=\"utf-8\"><title>libs-qiankun2-tabs-vue2</title></html>\n",
-    "create_at": "2026-11-21T06:56:30.267Z",
+    "create_at": "2026-11-22T19:41:53.394Z",
     "desc": "this version meta is created by hel-dev-utils@5.4.3"
   }
 }
